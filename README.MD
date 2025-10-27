@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+<a href="https://drive.google.com/file/d/1-mFg34Kjs0IS2BvMF2SSIEuWrKYPbpVu/view?usp=sharing">
 </a>
 <a href="https://dio.me/">
 <img 
