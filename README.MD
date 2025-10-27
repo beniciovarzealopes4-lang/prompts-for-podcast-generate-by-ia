@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://drive.google.com/file/d/1-mFg34Kjs0IS2BvMF2SSIEuWrKYPbpVu/view?usp=sharing"
     width="300"
 />
 </p>
