@@ -73,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspBeniciovarzealopes<br>
+    <p>&nbsp&nbsp&nbspBenicio Várzea Lopes<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/beniciovarzealopes4-lang">
@@ -81,12 +81,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/benicio-varzea-lopes.exe/">
+        href="www.linkedin.com/in/benicio-varzea-lopes/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/beniciovarzea.exe/
+        href="https://www.instagram.com/beniciovarzea/
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
