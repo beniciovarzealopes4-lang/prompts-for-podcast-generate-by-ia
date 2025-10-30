@@ -72,21 +72,14 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     />
     <p>&nbsp&nbsp&nbspBenicio Várzea Lopes<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/beniciovarzealopes4-lang">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/benicio-varzea-lopes/">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/beniciovarzea/
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/beniciovarzealopes4-lang">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+benicio-varzea-lopes/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/beniciovarzea/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
