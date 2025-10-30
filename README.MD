@@ -86,4 +86,4 @@ benicio-varzea-lopes/">LinkedIn</a>
 
 ---
 
-⌨️ por [Benício Várzea Lopes]
+Feito com 🤗 por [Benício Várzea Lopes]
