@@ -74,8 +74,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/beniciovarzealopes4-lang">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-benicio-varzea-lopes">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/
+benicio-varzea-lopes/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/beniciovarzea/">
     Instagram</a>
